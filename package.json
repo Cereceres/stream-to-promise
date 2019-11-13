@@ -1,0 +1,25 @@
+{
+  "name": "stream-to-promise",
+  "version": "1.0.0",
+  "description": "listen stream to be ready and return a promise what is resolved with success and rejected with error event",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/stream-to-promise.git"
+  },
+  "keywords": [
+    "promise",
+    "stream",
+    "error",
+    "success"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/stream-to-promise/issues"
+  },
+  "homepage": "https://github.com/Cereceres/stream-to-promise#readme"
+}
